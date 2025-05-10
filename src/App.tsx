@@ -1,4 +1,3 @@
-import React from 'react';
 import { BookOpenCheck } from 'lucide-react';
 import Header from './components/Header';
 import FilterBar from './components/FilterBar';
